@@ -9,7 +9,7 @@ Neste primeiro momento, a API oferece endpoints para as operações CRUD (Criar,
 
 Siga os passos abaixo para configurar e iniciar o servidor da API no seu ambiente local.
 
-### 1. Clonagem e Configuração do Ambiente
+### Clonagem e Configuração do Ambiente
 
 Primeiro, clone este repositório e navegue até o diretório raiz.
 
